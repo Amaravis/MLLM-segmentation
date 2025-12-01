@@ -1,6 +1,6 @@
 # 🚀 Finers
 
-Code for paper "FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning" Neurips2025.
+Code for paper "FineRS: Fine-grained Reasoning and Segmentation of Small Objects with Reinforcement Learning" Neurips2025. [ArXiv](https://arxiv.org/pdf/2510.21311)
 
 ## 📊 Benchmark
 
